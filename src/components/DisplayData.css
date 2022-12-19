@@ -1,0 +1,10 @@
+.p-img {
+  height: 200px;
+  line-height: 200px;
+  width: 200px;
+  border-radius: 100px;
+}
+td {
+  text-align: center;
+  font-size: large;
+}
